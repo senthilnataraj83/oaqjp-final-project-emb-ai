@@ -1,3 +1,9 @@
+
+# Emotion Detector
+
+FINAL PROJECT 
+An AI-powered Python web application built using the Flask framework and integrated with the IBM Watson NLP Emotion Detection library. This application analyzes user-provided text statements to identify underlying emotional tones, providing individual emotion scores alongside a final calculated dominant emotion output.
+
 emotion_detection.py is the main Python Program for NLP followed by __init__.py and server.py
 
 Following are the tasks carried out and the respective output generated from the terminal.
